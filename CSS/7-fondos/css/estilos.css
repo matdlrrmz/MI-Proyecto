@@ -1,0 +1,14 @@
+body{
+    /* background: #ffbe76; */
+    /* background: url('../imagenes/circle-blues.png'); */
+    /* background-repeat: no-repeat;
+    background-position: center 50px; */
+    background-repeat: repeat;
+    color: rgb(88, 211, 16);
+
+    background: rgb(173, 83, 137, .5);  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, rgba(196, 14, 135, 0.5), rgba(83, 173, 95, 0.5)), url('../imagenes/fondosweb.jpg');  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, rgba(221, 13, 13, 0.5), rgba(32, 24, 141, 0.5)), url('../imagenes/fondosweb.jpg'); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}

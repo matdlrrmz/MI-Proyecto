@@ -1,0 +1,22 @@
+div{
+    width: 100px;
+    height: 100px;
+    background: rgb(255, 123, 0);
+    color: antiquewhite;
+    font-size: 30px;
+    float: left;
+    margin: 5px;
+    border-radius: 50px;
+}
+
+/* .caja{
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 200px;
+} */
+
+img{
+    width: 200px;
+}

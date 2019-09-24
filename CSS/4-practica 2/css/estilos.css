@@ -1,0 +1,23 @@
+h1{
+    background: blue;
+    color: white;
+    padding: 18px;
+}
+
+body{
+    background: black;
+}
+
+p{
+    
+    color: green;
+}
+
+a{
+    background: orange;
+    font-size: 2em;
+}
+
+p.padre{
+    font-size: 20px;
+}
